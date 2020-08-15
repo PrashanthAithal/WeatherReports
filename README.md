@@ -1,4 +1,4 @@
-1. The solution has been built with C#, .Net Core 3, MVC, Entity Framework and SQL server.
+1. This solution has been created with C#, .Net Core 3, MVC, Entity Framework and SQL server.
 
 2. Repository pattern has been used to introduce abstraction to EF DB Context.
 
