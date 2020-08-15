@@ -8,7 +8,7 @@
 
 5. SQL DB creation script has been placed in root folder.
 
-6. I order to run this solution, please update the connection string in appsettings.json and setup Table through running WeatherReports.sql.
+6. In order to run this solution, please update the connection string in appsettings.json and setup Table through running WeatherReports.sql.
 
 
-Note: Since my VS instance license expired, resetting system time to 13th Nov 2019. Hence there are few files created with older date.
+Note: Since local VS instance license expired, resetting system time to 13th Nov 2019. Hence there are few files created with older date.
